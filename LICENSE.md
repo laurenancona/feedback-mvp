@@ -1,4 +1,8 @@
-## This project is in the public domain
+## A few parts of this project are not in the public domain
+
+The basis for `tags/feedback-dev.js` is from [GA Feedback](https://github.com/luckyshot/ga-feedback/blob/master/LICENSE.md) copyright © 2015-2016 [Xavi Steve](https://github.com/luckyshot), licensed under [The MIT License (MIT)](https://github.com/luckyshot/ga-feedback/blob/master/LICENSE.md#the-mit-license-mit).
+
+## The rest of this project is in the public domain
 
 As a work of the United States Government, this project is in the public domain within the United States.
 
